@@ -8,6 +8,8 @@ using System.Web;
 using System.Web.Mvc;
 using Group5_GameStore.Models;
 
+// comments to test github
+
 namespace Group5_GameStore.Controllers
 {
     public class GamesController : Controller
